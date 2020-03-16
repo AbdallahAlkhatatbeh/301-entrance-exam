@@ -5,7 +5,7 @@ var z = 0 ;
 function greaterThan(){
 for (let i = 0; i < x.length; i++) {
   if (x[i]>y) {
-     var z = ++z ;
+     z++ ;
     }
     
     
