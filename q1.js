@@ -1,4 +1,4 @@
-
+'use strict'
 var x = [2,4,3,1] ;
 var y = 3 ; 
 var z = 0 ;
